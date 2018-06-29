@@ -9,7 +9,7 @@ in  file IDSDS.java there are the main code to solve game of  three  players  by
 and in file players.jave there are class  help us in solve the issue
 
 ##
-the payoff to eache player  in my issue was input static  you can notice that  from line  51 to 157 
+the payoff to eache player  in my issue was static input   you can notice that  from line  51 to 157 
 
 
 ##
@@ -18,7 +18,7 @@ number of players  ==> 3
 stratages of eache player ==>   3
 
  ##
-the section from line 172 to 220 is rewrite to every player with some edits  
+the section from line 172 to 220 rewrite to every player with some edits  
 the Boolean variable (stop) in this section help us to speed the run and decreases the complexity
 
 ##
