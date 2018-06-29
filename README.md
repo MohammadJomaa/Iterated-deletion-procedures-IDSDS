@@ -1,4 +1,4 @@
-# Iterated-deletion-procedures-IDSDS-
+# Iterated-deletion-procedures-IDSDS
 Game of theory | The  Iterated Deletion of Strictly Dominated Strategies
 
 in  file IDSDS.java there are the main code to solve game of  three  players  by IDSDS  method
